@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "College Laboratory Management System",
+    "subtitle": "Issue Laboratory Equipment",
+    "description": "Workflow for verifying student eligibility, checking equipment availability, and issuing laboratory apparatus.",
+    "activitySource": 9,
+    "stateSource": 3,
+    "activityImage": "/diagrams/activity/activity_1.webp",
+    "stateImage": "/diagrams/state/state_1.webp",
+    "activityImageHd": "/diagrams/activity/activity_1.png",
+    "stateImageHd": "/diagrams/state/state_1.png"
+  },
+  {
+    "id": 2,
+    "title": "Library Management System",
+    "subtitle": "Book Issue and Return",
+    "description": "Process for membership verification, book availability checking, issuing, return calculation, and fine collection.",
+    "activitySource": 8,
+    "stateSource": 4,
+    "activityImage": "/diagrams/activity/activity_2.webp",
+    "stateImage": "/diagrams/state/state_2.webp",
+    "activityImageHd": "/diagrams/activity/activity_2.png",
+    "stateImageHd": "/diagrams/state/state_2.png"
+  },
+  {
+    "id": 3,
+    "title": "Hospital Management System",
+    "subtitle": "Patient Appointment",
+    "description": "End-to-end appointment scheduling, doctor availability checking, consultation, and bill generation.",
+    "activitySource": 7,
+    "stateSource": 5,
+    "activityImage": "/diagrams/activity/activity_3.webp",
+    "stateImage": "/diagrams/state/state_3.webp",
+    "activityImageHd": "/diagrams/activity/activity_3.png",
+    "stateImageHd": "/diagrams/state/state_3.png"
+  },
+  {
+    "id": 4,
+    "title": "Student Information System",
+    "subtitle": "Student Marks Entry",
+    "description": "Faculty marks entry, validation, draft saving, approval workflow, and student record publishing.",
+    "activitySource": 10,
+    "stateSource": 6,
+    "activityImage": "/diagrams/activity/activity_4.webp",
+    "stateImage": "/diagrams/state/state_4.webp",
+    "activityImageHd": "/diagrams/activity/activity_4.png",
+    "stateImageHd": "/diagrams/state/state_4.png"
+  },
+  {
+    "id": 5,
+    "title": "Online Food Ordering System",
+    "subtitle": "Place Food Order",
+    "description": "Cart validation, payment processing, restaurant order forwarding, food preparation, and delivery partner assignment.",
+    "activitySource": 1,
+    "stateSource": 7,
+    "activityImage": "/diagrams/activity/activity_5.webp",
+    "stateImage": "/diagrams/state/state_5.webp",
+    "activityImageHd": "/diagrams/activity/activity_5.png",
+    "stateImageHd": "/diagrams/state/state_5.png"
+  },
+  {
+    "id": 6,
+    "title": "Online Shopping System",
+    "subtitle": "Purchase Product",
+    "description": "Product search, inventory check, payment gateway processing, invoice creation, and warehouse dispatch.",
+    "activitySource": 2,
+    "stateSource": 8,
+    "activityImage": "/diagrams/activity/activity_6.webp",
+    "stateImage": "/diagrams/state/state_6.webp",
+    "activityImageHd": "/diagrams/activity/activity_6.png",
+    "stateImageHd": "/diagrams/state/state_6.png"
+  },
+  {
+    "id": 7,
+    "title": "Banking Management System",
+    "subtitle": "Money Transfer",
+    "description": "Beneficiary account validation, balance verification, OTP/PIN authentication, and transaction execution.",
+    "activitySource": 3,
+    "stateSource": 9,
+    "activityImage": "/diagrams/activity/activity_7.webp",
+    "stateImage": "/diagrams/state/state_7.webp",
+    "activityImageHd": "/diagrams/activity/activity_7.png",
+    "stateImageHd": "/diagrams/state/state_7.png"
+  },
+  {
+    "id": 8,
+    "title": "Hotel Management System",
+    "subtitle": "Room Reservation",
+    "description": "Room type and date availability lookup, advance payment handling, booking ID generation, and room check-in status.",
+    "activitySource": 4,
+    "stateSource": 10,
+    "activityImage": "/diagrams/activity/activity_8.webp",
+    "stateImage": "/diagrams/state/state_8.webp",
+    "activityImageHd": "/diagrams/activity/activity_8.png",
+    "stateImageHd": "/diagrams/state/state_8.png"
+  },
+  {
+    "id": 9,
+    "title": "College Placement Management System",
+    "subtitle": "Student Job Application",
+    "description": "Job application, eligibility criteria validation, placement officer verification, shortlist generation, and interview scheduling.",
+    "activitySource": 5,
+    "stateSource": 1,
+    "activityImage": "/diagrams/activity/activity_9.webp",
+    "stateImage": "/diagrams/state/state_9.webp",
+    "activityImageHd": "/diagrams/activity/activity_9.png",
+    "stateImageHd": "/diagrams/state/state_9.png"
+  },
+  {
+    "id": 10,
+    "title": "Examination Management System",
+    "subtitle": "Result Generation",
+    "description": "Marks fetching from faculty, validation, grades and totals calculation, controller approval, and result publication.",
+    "activitySource": 6,
+    "stateSource": 2,
+    "activityImage": "/diagrams/activity/activity_10.webp",
+    "stateImage": "/diagrams/state/state_10.webp",
+    "activityImageHd": "/diagrams/activity/activity_10.png",
+    "stateImageHd": "/diagrams/state/state_10.png"
+  }
+]
